@@ -38,3 +38,13 @@ color: red;
 font-size: 20px;
 
 }
+
+footer {
+background-color: black;
+
+}
+
+li{
+    color: red;
+    list-style: none;
+}
